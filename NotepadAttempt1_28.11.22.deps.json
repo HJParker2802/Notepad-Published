@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NotepadAttempt1_28.11.22/1.0.0": {
+        "runtime": {
+          "NotepadAttempt1_28.11.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotepadAttempt1_28.11.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
